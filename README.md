@@ -1,3 +1,4 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/KimYx0207/xxxbot-pad)
 # 🤖 XXXBot 机器人项目 🤖
 
 > ## ⚠️ 免责声明
